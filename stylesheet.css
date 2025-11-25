@@ -19,6 +19,9 @@ header{
 }
 .top-wrapper {
    background-image: url(imade.jpg);
+   height: 580px;
+   padding: 100px ;
+   text-align: center;
 }
 
 
