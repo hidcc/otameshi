@@ -9,6 +9,7 @@ header{
    width: 100%;
    position: fixed;
    top: 0;
+   z-index: 10;
 }
 .header-logo1 {
    width: 10px;
